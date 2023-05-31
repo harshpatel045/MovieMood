@@ -1,0 +1,5 @@
+.admin,.addmovie,.remove,.userQuery,.cast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
